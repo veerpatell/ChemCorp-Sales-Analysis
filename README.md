@@ -17,7 +17,7 @@ This work is structured using Tableau visualizations and backed by data explorat
 ### 1. 📈 Segment Profitability Analysis
 Visualizes average profit margins across all business types.
 
-![Segment Profitability](./visuals/Market_Segment.png)
+![Segment Profitability](./Visuals/Market_Segment.png)
 
 > **Insight:** Biotechnology has the highest average profit margin (~64.4%), followed closely by Machinery & Industrial Goods.
 
@@ -27,7 +27,7 @@ Visualizes average profit margins across all business types.
 ### 2. 🧮 Profit Margin vs Customer Count
 Highlights correlation between segment profitability and customer base.
 
-![Profit vs Customers](./visuals/Market_Opportunity.png)
+![Profit vs Customers](./Visuals/Market_Opportunity.png)
 
 > **Insight:** Machinery & Industrial Goods leads with both high profitability and customer count, suggesting strong market fit.
 
@@ -37,7 +37,7 @@ Highlights correlation between segment profitability and customer base.
 ### 3. ❌ Low-Margin Products
 Drills into specific low-performing products within low-margin segments.
 
-![Low Margin Products](./visuals/Product_Divestment.png)
+![Low Margin Products](./Visuals/Product_Divestment.png)
 
 > **Insight:** Chemical A in Medical Equipment shows a **negative profit margin** (−21.97%) and is a candidate for divestment.
 

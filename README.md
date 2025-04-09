@@ -11,24 +11,6 @@ This work is structured using Tableau visualizations and backed by data explorat
 
 ---
 
-## 📂 Repository Structure
-ChemCorp-Sales-Analysis/ 
-├── data/ 
-│ └── ChemCorp_Sales_Data_Jan15_Dec15.xlsx 
-├── tableau/ 
-│ ├── Market Segment.twb 
-│ ├── Market Opportunity.twb 
-│ └── Product Divestment.twb 
-├── visuals/ 
-│ ├── segment_profitability.png 
-│ ├── customer_vs_margin.png 
-│ └── low_margin_products.png 
-├── summary/ 
-│ └── ChemCorp_Presentation.pdf 
-└── README.md
-
----
-
 
 ## 📊 Dashboards & Key Visuals
 
